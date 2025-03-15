@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "a5b9ea648c3395dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc8e58777852dc45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "663b2da28f3de1d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ImageGuy/Day1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff6116b23d9064fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "22ee50fba4620649",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08e6ddf0617e0929",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2b2a279ff089fcc8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "110875c8d220eb87",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b252814c8040c19",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1b83836000cdf89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae2d90fb6824d96b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ImageGuy/Day1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Day1"
+            }
+          },
+          {
+            "id": "6a2fcca8b82fd135",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ImageGuy/Day1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Day1"
+            }
+          },
+          {
+            "id": "6a5ff93d3ad3edf7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "949a47db1ec69e69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ImageGuy/Day1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Day1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "663b2da28f3de1d7",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "ImageGuy/Day1.md",
+    "ImageGuy",
+    "StoryDay"
+  ]
+}
